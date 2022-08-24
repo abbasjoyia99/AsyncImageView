@@ -1,8 +1,7 @@
 # AsyncImageView 
 
-![Simulator Screen Shot - iPhone 12 Pro Max - 2022-08-24 at 11 53 23](https://user-images.githubusercontent.com/27265918/186350954-3ea02d18-f85b-4c9f-a8b8-b1976afbf4ab.png)
+<img width="892" alt="Screenshot 2022-08-24 at 11 58 03 AM" src="https://user-images.githubusercontent.com/27265918/186351796-6ad8324e-c6fc-437b-bb3d-83183b976ec0.png">
 
-![Simulator Screen Shot - iPhone 12 Pro Max - 2022-08-24 at 11 53 33](https://user-images.githubusercontent.com/27265918/186350981-ed33752e-f458-410f-a493-b1527a0a683e.png)
 
 
 # Learning 
